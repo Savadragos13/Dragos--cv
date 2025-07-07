@@ -19,7 +19,7 @@
 
 ## 📄 CV-ul meu
 
-🔗 [Vezi CV-ul meu aici (PDF)]()  
+🔗 [Vezi CV-ul meu aici (PDF)]((https://docs.google.com/document/d/1gfF5aaXCXf9cF11y4-nTcll5o8xnKtp4-JNmD2_LxtA/edit?usp=sharing))  
 *(Înlocuiește acest link cu cel real)*
 
 ---
